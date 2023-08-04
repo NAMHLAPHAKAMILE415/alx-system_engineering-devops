@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod --reference-olleh hello
+chmod +x set_mode_to_olleh.sh hello
+
